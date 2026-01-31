@@ -285,7 +285,7 @@
 // within() -> inbuilt method in cypress for verifying table we use this
 //============================================================================================================================
 
-//shadow DOM elements
+//XZ    dow DOM elements
 // shadow root library they are using for security purpase
 //untill shadow root we have to take a locator and the .shadow().find(enterparticularlocator).type('ramya')
 //cy.get('#shadow_host').shadow().find(enterparticularlocator).type('ramya')
